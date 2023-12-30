@@ -1,8 +1,7 @@
 # Accounting-Ledger
 
 This is an application to track all financial transactions for a business 
-//Information on what to code out
-//I am creating an application to track all financial transactions for a business 
+
 
 Pages:
 
